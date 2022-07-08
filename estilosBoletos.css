@@ -2,6 +2,9 @@
     text-align: center;
     color: rgb(251, 247, 247);
     z-index: 1;
+    text-align: center;
+    margin-top: 30%;
+    margin-bottom: 30%;
     font-weight: bold;
 
 }
@@ -9,9 +12,4 @@
 .BodyB{
     background-image: url(./assets/img/fondoboletas.jpeg) !important;
     background-size: cover;
-}
-
-.con{
-    padding-top: 100%;
-    width: 100%;
 }

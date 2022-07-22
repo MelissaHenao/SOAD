@@ -76,12 +76,12 @@ function pintarCanciones(canciones){
 
         let columna=document.createElement("div")
         
-        columna.classList.add("col")
+        columna.classList.add("col","my-5")
 
         
         let tarjeta=document.createElement("div")
         
-        tarjeta.classList.add("card","h-100","p-3","shadow")
+        tarjeta.classList.add("card","h-100","p-3","shadow", "mt-5")
 
        
 

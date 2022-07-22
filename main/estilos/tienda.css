@@ -108,3 +108,14 @@
     left: 0;
     z-index: -1;
 }
+
+.integrantes{
+    background-attachment: fixed;
+    background-image: url(../assets/imagenes/fondo2.jpeg);
+    background-size: cover;
+}
+
+.imgbaner{
+    height: 100%;
+    width: 100%;
+}
